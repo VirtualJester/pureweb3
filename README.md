@@ -1,7 +1,7 @@
 pureweb3
 This repository has been created to test native browser support for web3 sites.
 
-All of the Unstoppable Domains' TLDs have their own folder and files. These TLDs include:
+All of the TLDs that Unstoppable Domains offer, have their own individual folder and files. These TLDs include:
 .888 | .bitcoin | .blockchain | .crypto | .dao | .nft | .wallet | .x | .zil
 To access any of these sites, you would simply go to pureweb3.tld (.tld being .x for example if you wanted the .x version).
 
